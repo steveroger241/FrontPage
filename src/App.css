@@ -1,0 +1,25 @@
+.header {
+    padding: 40px 0;
+}
+
+.main-content {
+    background-color: #f0f4f8;
+    padding: 40px 0;
+}
+
+.signin-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial {
+    background-color: #e9f7fc;
+    padding: 40px 0;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
